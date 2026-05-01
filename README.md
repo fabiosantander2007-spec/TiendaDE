@@ -86,12 +86,15 @@ El sistema debe permitir al usuario gestionar el inventario de forma clara y sin
 # 5. IMÁGENES DEL PROBLEMA
 
 PROBLEMA A MOSTRAR EN IMAGEN:
+<img width="238" height="418" alt="image" src="https://github.com/user-attachments/assets/83e00ea3-a393-4411-a914-5d7f2e6721b3" />
 
 * Desorden en ropa del almacén
 * Productos sin control de stock
 * Uso de cuadernos para registrar ventas
 
 # 6. IMÁGENES DEL NEGOCIO
+<img width="354" height="418" alt="image" src="https://github.com/user-attachments/assets/d3f02580-ab8d-4a0d-8f76-404fabcc9c5e" />
+<img width="500" height="453" alt="image" src="https://github.com/user-attachments/assets/4bc8bd05-2e3a-44d0-a48a-71eacdb2d7f1" />
 
 * Ropa de gimnasio (polos, leggings, etc.)
 * Tienda organizada
