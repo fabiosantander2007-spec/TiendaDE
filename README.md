@@ -95,6 +95,10 @@ PROBLEMA A MOSTRAR EN IMAGEN:
 # 6. IMÁGENES DEL NEGOCIO
 <img width="354" height="418" alt="image" src="https://github.com/user-attachments/assets/d3f02580-ab8d-4a0d-8f76-404fabcc9c5e" />
 <img width="500" height="453" alt="image" src="https://github.com/user-attachments/assets/4bc8bd05-2e3a-44d0-a48a-71eacdb2d7f1" />
+### DIAGRAMA DE FIGMA
+
+Más info en [Mi_Diseño_Figma](https://www.figma.com/design/w0t04eIjHrDWnTS4o8HdPX/Sin-t%C3%ADtulo?node-id=0-1&t=EBmU7lDFzI3aNnHP-1)
+![FIGMA](recursos/Figma.png)
 
 * Ropa de gimnasio (polos, leggings, etc.)
 * Tienda organizada
