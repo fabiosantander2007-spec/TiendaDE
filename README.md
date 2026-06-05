@@ -99,6 +99,9 @@ PROBLEMA A MOSTRAR EN IMAGEN:
 
 Más info en [Mi_Diseño_Figma](https://www.figma.com/design/w0t04eIjHrDWnTS4o8HdPX/Sin-t%C3%ADtulo?node-id=0-1&t=EBmU7lDFzI3aNnHP-1)
 ![FIGMA](recursos/Figma.png)
+### Trello
+Más info en [Mi_Trello](https://trello.com/invite/b/69a1f6e24ee58b1ad64ba445/ATTI447608e0ba2507b09466be0f1825ca78CC4A40D2/gym-proyecto-fabio)
+
 
 * Ropa de gimnasio (polos, leggings, etc.)
 * Tienda organizada
