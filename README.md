@@ -106,3 +106,5 @@ Más info en [Mi_Trello](https://trello.com/invite/b/69a1f6e24ee58b1ad64ba445/AT
 * Ropa de gimnasio (polos, leggings, etc.)
 * Tienda organizada
 * Productos exhibidos
+# FOTO DEL NEGOCIO CON EL SISTEMA
+<img width="848" height="633" alt="image" src="https://github.com/user-attachments/assets/f47b9188-2116-4466-87d4-502b58c22d3f" />
