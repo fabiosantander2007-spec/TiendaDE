@@ -91,6 +91,9 @@ PROBLEMA A MOSTRAR EN IMAGEN:
 * Desorden en ropa del almacén
 * Productos sin control de stock
 * Uso de cuadernos para registrar ventas
+  *LOGO
+  <img width="361" height="183" alt="image" src="https://github.com/user-attachments/assets/21192767-978c-420d-a2ab-7d2d9ec09011" />
+
 
 # 6. IMÁGENES DEL NEGOCIO
 <img width="354" height="418" alt="image" src="https://github.com/user-attachments/assets/d3f02580-ab8d-4a0d-8f76-404fabcc9c5e" />
